@@ -1,0 +1,116 @@
+body, h1, h2, h3, h4, h5, h5, p, ul, ol, li, dl, dt, dd, form, textarea, blockquote {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    color: #333333;
+    font: 16px/1.5 Helvetica, Arial, 'ヒラギノ角ゴ Pro W3', Hiragino Kaku Gothic Pro, sans-serif;
+}
+
+div#container {
+    padding: 0 10px 0 10px;
+}
+
+div#branding {
+    position: relative;
+    width: 960px;
+    height: 95px;
+    margin: 0 auto;
+}
+
+div#main {
+    width: 960px;
+    margin: 0 auto 0 auto;
+    word-wrap: break-word;
+    clear: both;
+}
+
+div.box-wrap {
+    width: 962px;
+    margin: 0 0 30px 0;
+    zoom: 1;
+}
+
+div.box1_1 {
+    margin: 0;
+    padding: 0;
+}
+
+ul.entry-vertical-4 {
+#background-image:;
+    background-size: 962px 8px;
+    background-repeat: repeat-y;
+    background-position: center top;
+}
+
+ul.users {
+    border-top-color: #308272;
+    color: #308272;
+}
+
+li.entry-unit {
+    border-top: 0;
+    display: inline-block;
+    vertical-align: top;
+    width: 228px;
+    margin: 0 5px 0 5px;
+    padding: 0 0 0 2px;
+    overflow: hidden;
+}
+
+li.entry-unit ul.users {
+    height: 40px;
+    border-bottom: 1px solid #ECECEC;
+    border-top: 4px solid;
+}
+
+div.entory-contents {
+    padding: 12px 15px 0 15px;
+    border-bottom: 1px dotted #ECECEC;
+}
+
+div.entory-contents h3 {
+    margin: 0 0 9px 0;
+    font-size: 15px;
+    line-height: 22px;
+    min-height: 50px;
+    clear: both;
+    font-weight: bold;
+}
+
+div.entry-contents h3 a {
+    padding: 8px 0;
+}
+
+ul.entry-vertical-4 div.entry-contents h3 {
+    font-size: 15px;
+    line-height: 22px;
+}
+
+ul.entry-vertical-4 div.entry-contents blockquote {
+    margin: 0;
+    font-size: 12px;
+    line-height: 18px;
+}
+
+ul.entry-data {
+    zoom: 1;
+}
+
+ul.entry-vertical-4 ul.entry-data li.description {
+    margin-bottom: 0;
+    width: 198px;
+}
+
+ul.entry-vertical-4 ul.entry-meta {
+    border-bottom: 1px dotted #ECECEC;
+    padding: 10px 0px 10px 15px;
+}
+
+ul.entry-meta {
+    zoom: 1;
+}
